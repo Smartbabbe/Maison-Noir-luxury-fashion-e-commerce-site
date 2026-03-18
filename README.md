@@ -1,3 +1,7 @@
-Maison Noir is a luxury clothing brand. 
+## Maison Noir is a luxury clothing brand. 
 
-THis website is created using React, 
+## This website is created using React, vite, tailwind.
+
+The live prject can be viewed here
+
+## https://maison-noir-luxury-fashion-e-commer.vercel.app/
