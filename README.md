@@ -41,8 +41,8 @@ order confirmation.
 ## Getting Started
 
 ```bash
-git clone https://github.com/Smartbabbe/[repo-name]
-cd [repo-name]
+git clone https://github.com/Smartbabbe/[Maison-Noir]
+cd [Maison-Noir]
 npm install
 npm run dev
 ```
